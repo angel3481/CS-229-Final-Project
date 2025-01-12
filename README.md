@@ -96,6 +96,11 @@ These results demonstrate competitive performance, with the huge neural network 
 
 ---
 
+## Documentation
+- [Final Project Paper (PDF)](docs/CS_229_Final_Project.pdf): Detailed report describing the methodology, experiments, and results of this project.
+
+---
+
 ## **Dataset**
 - **Original Dataset**:
   - Sourced from [Kaggle's Used Car Auction Prices dataset](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices).
